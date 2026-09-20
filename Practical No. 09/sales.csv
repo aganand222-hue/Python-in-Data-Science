@@ -1,0 +1,11 @@
+Order_ID,Product,Region,Units,Sales
+401,Laptop,West,5,350000
+402,Phone,North,12,360000
+403,Tablet,South,8,240000
+404,Monitor,East,6,150000
+405,Keyboard,West,20,30000
+406,Mouse,North,25,20000
+407,Laptop,South,7,490000
+408,Phone,East,15,450000
+409,Tablet,West,10,300000
+410,Monitor,North,9,225000

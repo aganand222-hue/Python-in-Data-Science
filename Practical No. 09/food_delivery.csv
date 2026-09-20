@@ -1,0 +1,11 @@
+Order_ID,Customer,City,Restaurant_Type,Order_Value,Delivery_Time
+901,C01,Mumbai,Indian,450,32
+902,C02,Pune,Chinese,620,41
+903,C03,Mumbai,Fast Food,280,25
+904,C04,Nashik,Indian,510,35
+905,C05,Pune,Italian,850,48
+906,C06,Mumbai,Chinese,730,44
+907,C07,Thane,Indian,490,37
+908,C08,Pune,Fast Food,320,28
+909,C09,Mumbai,Italian,920,52
+910,C10,Thane,Indian,560,39

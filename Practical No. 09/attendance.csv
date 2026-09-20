@@ -1,0 +1,11 @@
+Student_ID,Name,Attendance,Marks,Course
+501,Om,88.0,72.0,BCA
+502,Sara,92.0,84.0,BSc IT
+503,Yash,,65.0,BCA
+504,Maya,76.0,,BSc CS
+505,Aman,85.0,78.0,BSc IT
+506,Tara,,91.0,BCA
+507,Jay,95.0,88.0,BSc CS
+508,Anu,81.0,74.0,BSc IT
+509,Ravi,89.0,,BCA
+510,Kriti,93.0,96.0,BSc CS
